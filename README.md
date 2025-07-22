@@ -2,6 +2,7 @@
 This project demonstrates a complete machine learning pipeline for predicting loan risk using data from LendingClub, a U.S.-based peer-to-peer lending platform. The goal is to identify loans that are likely to be defaulted or paid back with delay, providing valuable insights for future loan approval decisions.
 
 **Overview**
+
 The project follows a structured and well-documented approach to handle real-world, large-scale, and imbalanced data:
 - Data preparation and cleaning
 - Handling missing values
